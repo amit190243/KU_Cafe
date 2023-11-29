@@ -8,7 +8,7 @@ $loginUser = auth()->user();
                     <img src="{{ asset('images/logo.png') }}" alt="SOL" height="35" class="" />
                 </b>
                 <!-- Logo text --><span>
-                         Silicon Orchard Ltd.
+                         Ku Cafe
                     <!-- Light Logo text -->
                          </span> </a>
         </div>
